@@ -1,0 +1,4 @@
+interface:
+  display_name: "Urdu Manga"
+  short_description: "Urdu dialogue lettering with original art and names"
+  default_prompt: "Use $urdu-manga to translate this comic's dialogue into Urdu while preserving English names, attack calls, sound effects, and original artwork."

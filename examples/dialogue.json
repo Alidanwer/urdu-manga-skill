@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "title": "The Bridge - original Urdu lettering demo",
+  "source_language": "English",
+  "pages": [
+    {
+      "file": "page-1.png",
+      "regions": [
+        {
+          "id": "question",
+          "kind": "dialogue",
+          "source_text": "Zara, are you ready?",
+          "text": "Zara، کیا تم تیار ہو؟",
+          "preserve": ["Zara"],
+          "box": [125, 138, 575, 270],
+          "cleanup": [120, 135, 580, 275],
+          "size": 45
+        },
+        {
+          "id": "answer",
+          "kind": "dialogue",
+          "source_text": "Yes. I will protect the bridge.",
+          "text": "ہاں! میں پل کی حفاظت کروں گی۔",
+          "box": [125, 488, 575, 625],
+          "cleanup": [120, 485, 580, 630],
+          "size": 45
+        }
+      ]
+    }
+  ]
+}
